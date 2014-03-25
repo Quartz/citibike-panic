@@ -6,10 +6,10 @@ require_once(__DIR__ . "/CitiBikePanicStatusBoard.php");
 $config = Array(
 	"apiUrl"=>"http://appservices.citibikenyc.com/data2/stations.php",
 	"stations"=>Array(
-									Array("stationId"=>382,"stationName"=>"University Pl & 14th"),
-                  Array("stationId"=>285,"stationName"=>"Broadway & 14th"),
-									Array("stationId"=>357,"stationName"=>"11th & Broadway")
-						)
+		Array("stationId"=>382,"stationName"=>"University Pl & 14th"),
+        	Array("stationId"=>285,"stationName"=>"Broadway & 14th"),
+		Array("stationId"=>357,"stationName"=>"11th & Broadway")
+	)
    );
 
 
