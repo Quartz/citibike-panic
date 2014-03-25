@@ -8,5 +8,5 @@ Panic Status Board widget to indicate how many NYC citibikes are available nearb
   * edit the stations list in the index.php file to the stations nearest you
     * you'll probably need to wade through this json response to find the ones you want
     ``http://appservices.citibikenyc.com/data2/stations.php``
-  * create a new statusboard graph widget and point it to the appropriate URL.
+  * In the Status Board app, drag in a new graph widget and point it to the appropriate URL.
   * ride like the wind.
