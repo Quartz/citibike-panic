@@ -1,7 +1,7 @@
 citibike-panic
 ==============
 
-Panic Status Board widget to show how many NYC citibikes are available nearby. 
+Panic Status Board widget to indicate how many NYC citibikes are available nearby. 
 
 #usage#
   * Install to a php server that your Status Board can access.
